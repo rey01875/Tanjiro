@@ -1,4 +1,4 @@
-## REUZSC
+## Tanjiro
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,9 +16,9 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
-> bash install.sh
+> git clone https://github.com/rey01875/Tanjiro
+> cd Tanjiro
+> bash install.sha
 > node index.js
 ```
 
